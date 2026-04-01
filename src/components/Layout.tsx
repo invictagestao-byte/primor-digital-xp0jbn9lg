@@ -27,7 +27,7 @@ export default function Layout() {
               className="hidden sm:inline-flex bg-gradient-primary text-white hover:opacity-90 glow-effect"
               asChild
             >
-              <a href="https://wa.me/5511999999999" target="_blank" rel="noreferrer">
+              <a href="https://wa.me/5531975573727" target="_blank" rel="noreferrer">
                 Falar com consultor
               </a>
             </Button>
@@ -124,7 +124,7 @@ export default function Layout() {
       </footer>
 
       <a
-        href="https://wa.me/5511999999999"
+        href="https://wa.me/5531975573724"
         target="_blank"
         rel="noreferrer"
         className="fixed bottom-6 right-6 z-50 w-16 h-16 bg-[#25D366] text-white rounded-full flex items-center justify-center shadow-[0_0_20px_rgba(37,211,102,0.4)] hover:scale-110 transition-transform duration-300 group"
