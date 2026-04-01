@@ -27,7 +27,7 @@ export default function Layout() {
               className="hidden sm:inline-flex bg-gradient-primary text-white hover:opacity-90 glow-effect"
               asChild
             >
-              <a href="https://wa.me/5531975573727" target="_blank" rel="noreferrer">
+              <a href="https://wa.me/5531975573724" target="_blank" rel="noreferrer">
                 Falar com consultor
               </a>
             </Button>
